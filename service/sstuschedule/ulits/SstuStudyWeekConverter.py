@@ -1,5 +1,5 @@
 from entities.StudyWeek import StudyWeek
-from sstuschedule.ulits.SstuStudyDayConverter import SstuStudyDayConvertor
+from service.sstuschedule.ulits.SstuStudyDayConverter import SstuStudyDayConvertor
 
 
 class SstuStudyWeekConverter:

@@ -6,8 +6,8 @@ from entities import Constants
 from entities.Constants import GROUP_NAME_CLASS
 from entities.Schedule import Schedule
 from entities.enums.WeekType import WeekType
-from sstuschedule.ulits.SstuParcerUtils import format_sstu_group_name_from_schedule_html
-from sstuschedule.ulits.SstuStudyWeekConverter import SstuStudyWeekConverter
+from service.sstuschedule.ulits.SstuParcerUtils import format_sstu_group_name_from_schedule_html
+from service.sstuschedule.ulits.SstuStudyWeekConverter import SstuStudyWeekConverter
 
 
 class SstuScheduleAggregator:
