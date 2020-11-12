@@ -1,5 +1,5 @@
-from sstuschedule.SstuScheduleAggregator import SstuScheduleParser
+from sstuschedule.SstuScheduleAggregator import SstuScheduleAggregator
 
 if __name__ == '__main__':
-    schedule = SstuScheduleParser
+    schedule = SstuScheduleAggregator
 

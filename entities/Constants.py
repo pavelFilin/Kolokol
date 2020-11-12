@@ -1,3 +1,5 @@
-SCHEDULE_LINK = "http://rasp.sstu.ru/group/120"
+IBS_51_SCHEDULE_LINK = "http://rasp.sstu.ru/group/120"
 EVEN_CLASS = ".chet"
 ODD_CLASS = ".nechet"
+GROUP_NAME_CLASS = ".h2.pull-right"
+GROUP_IBS_51 = "IBS-51"
